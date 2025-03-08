@@ -162,4 +162,4 @@ Coverage reports are output to the `coverage/` directory and can be viewed as an
 - **Test both happy and edge cases**: Cover various input conditions.
 - **Use snapshots for static components**: Helps detect unexpected changes.
 
-By following these steps, you ensure robust testing and maintainability of your Todo List application.
+Link video: https://drive.google.com/drive/folders/1QQQX-x6sdEj9IT3V_OHt4a6jzvOLlFph?usp=sharing
