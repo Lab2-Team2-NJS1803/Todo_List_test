@@ -1,18 +1,3 @@
-# Vite + React + TypeScript + Jest + React Testing Library Setup
-
-This repository provides a step-by-step guide to setting up Jest and React Testing Library in a Vite project with TypeScript. Follow along with the [youtube tutorial](https://www.youtube.com/watch?v=tnCLaxCCKWk&ab_channel=PedroFurquim) I've made
-following the same process
-
-## Prerequisites
-
-Make sure you have the following installed:
-
-- Node.js
-- npm (Node Package Manager)
-
-## Setup Guide
-
-Follow these steps to set up Jest and React Testing Library in your Vite project.
 
 ### 1. Install Jest and TypeScript Types
 
@@ -146,7 +131,3 @@ To run the tests, use the following command:
 ```
 npm run test:cov
 ```
-
-### Conclusion
-
-You have now set up Jest and React Testing Library in your Vite project with TypeScript. Happy testing!# Todo_List_test
